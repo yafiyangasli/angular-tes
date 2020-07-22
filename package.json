@@ -1,0 +1,24 @@
+{
+  "name": "angular-test",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[B\u001b[AtT",
+  "main": "\u001b[C\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[CThis is a test directory to learn Git and Node",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "()\u001b[D\u001b",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafiyangasli/angular-tes.git"
+  },
+  "author": "M. Yafi Fahmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yafiyangasli/angular-tes/issues"
+  },
+  "homepage": "https://github.com/yafiyangasli/angular-tes#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
